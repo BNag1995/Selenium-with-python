@@ -1,0 +1,4 @@
+str = "HELLO"
+X=reversed(str)
+output="".join(X)
+print(output)
